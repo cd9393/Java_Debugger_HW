@@ -1,0 +1,5 @@
+1. To pause the programme at a certain point and launch the debugger.
+2. No it will pause before that line.
+3.Step over
+4.Step into will switch the debugger into the method and pause at the top line of that method.
+5.Evaluate Expression is a single line of code where as evaluate code fragment allows us to write more than one line of code and assign variables. You need semi colons in code fragment but not in evaluate expression.
